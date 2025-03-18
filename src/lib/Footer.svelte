@@ -1,7 +1,7 @@
 <footer>
     <div class="outer bg-black">
         <div class="inner spread-apart">
-            <a href="/"><img src="/logo-light.svg" alt="light logo"></a>
+            <a href="/"><img src="/tecdark.png" alt="light logo"></a>
             <a href="/blog" class="button bg-gradient-purple white"> Get Started</a>
         </div>
     </div>
