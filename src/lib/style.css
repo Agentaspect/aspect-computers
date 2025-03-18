@@ -9,6 +9,7 @@
 	--gray: hsl(232 10% 56%);
 	--blue: hsl(233 54% 16%);
 	--pink: hsl(341 92% 62%);
+	--black: hsl(0, 0%, 0%);
 
 	--gradient-gray: linear-gradient(white, #f0f1ff 40%);
 	--gradient-blue: linear-gradient(
@@ -39,6 +40,9 @@
 
 .bg-white {
 	background-color: var(--white);
+}
+.bg-black {
+	background-color: var(--black);
 }
 
 .bg-gray {
