@@ -17,6 +17,11 @@
 		hsl(233 54% 16% / 0.95),
 		hsl(234 25% 52% / 0.9)
 	);
+	--gradient-black: linear-gradient(
+		135deg,
+		hsla(0, 1%, 17%, 0.95),
+		hsla(0, 1%, 33%, 0.9)
+	);
 	--gradient-pink: linear-gradient(hsl(13 100% 64%), hsl(322 87% 55%));
 	--gradient-purple: linear-gradient(hsl(237 100% 64%), hsl(322 87% 55%));
 }
@@ -63,6 +68,9 @@
 
 .bg-gradient-blue {
 	background-image: var(--gradient-blue);
+}
+.bg-gradient-black {
+	background-image: var(--gradient-black);
 }
 
 .bg-gradient-pink {
