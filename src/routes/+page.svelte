@@ -10,11 +10,11 @@
     <div class="outer bg-gradient-gray">
         <div class="inner auto-fit">
             <HeadingBox heading="Check out our products and pages!"/>
-            <Box heading="PlACEHOLDER"/>
+            <Box heading="About us"/>
             <Box heading="Business"/>
-            <Box heading="buisnes"/>
-            <Box heading="buisnes"/>
-            <Box heading="buisnes"/>
+            <Box heading="Products"/>
+            <Box heading="placeholder"/>
+            <Box heading="placeholder"/>
         </div>  
     </div>
 </section>
