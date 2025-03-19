@@ -8,7 +8,7 @@
     <img src="{src}" alt="">
     <h3>{heading}</h3>
     <p>dont forget to remove this or do something else!</p>
-    <a href="">read more &raquo;</a>
+    <a href="/">read more &raquo;</a>
 </div>
 
 <style>
