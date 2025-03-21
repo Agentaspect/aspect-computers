@@ -1,7 +1,7 @@
 <header>
     <div class="outer">
         <div class="inner spread-apart">
-            <a href="/"><image src="/teklight.png" alt="dark logo"></image></a>
+            <a href="/"><image src="/logo2.png" alt="dark logo"></image></a>
             <nav>
                 <ul class="spread-apart">
                     <li><a href="/">Home</a></li>
