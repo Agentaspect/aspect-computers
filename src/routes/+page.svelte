@@ -10,11 +10,11 @@
     <div class="outer bg-gradient-gray">
         <div class="inner auto-fit">
             <HeadingBox heading="Check out our products and pages!"/>
-            <Box heading="About us"/>
-            <Box heading="Business"/>
-            <Box heading="Products"/>
-            <Box heading="placeholder"/>
-            <Box heading="placeholder"/>
+            <Box heading="About us" src="icons/icon-animation.svg"/>
+            <Box heading="Business" src="icons/icon-business.svg"/>
+            <Box heading="Products" src="icons/icon-programming.svg"/>
+            <Box heading="Find our Channels" src="icons/icon-photography.svg"/>
+            <Box heading="placeholder"src="icons/icon-design.svg" />
         </div>  
     </div>
 </section>

@@ -2,13 +2,15 @@
     let{
         heading,
         src,
+        description ="test words",
+        href,
     }=$props()
 </script>
 <div class="flow bg-gradient-black">
-    <img src="{src}" alt="">
+    <img {src} alt="">
     <h3>{heading}</h3>
-    <p>dont forget to remove this or do something else!</p>
-    <a href="/">read more &raquo;</a>
+    <p>{description}</p>
+    <a {href}>read more &raquo;</a>
 </div>
 
 <style>
